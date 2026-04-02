@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Spencer Keller's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Spencer Keller
+Tax associate, entrepeneur, follower of Christ.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/spencer-keller12/">My linkedin page</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
@@ -15,74 +14,62 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+I am currently an intern at Smith Kunz & Associates, where I assist with the preparation of both personal and business tax returns. In this role, I work with financial documents, organize client information, and support the tax team in ensuring accurate and timely filings. This experience has strengthened my understanding of tax regulations, attention to detail, and ability to handle sensitive financial data in a professional environment.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Specialized in
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Private client tax services, individual and business tax return preparation, and business entity selection for tax optimization. Experience with partnership taxation, including K-1 analysis, and exposure to state and local tax (SALT) compliance and multistate apportionment. Skilled in identifying tax credits and deductions, financial data analysis, and ensuring compliance with federal and state regulations. Strong focus on accuracy, efficiency, and handling sensitive financial information.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Expected April 2026
+Brigham Young University – Idaho, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Bachelor of Science in Accounting (GPA: 3.42)
+Cluster in Data Science
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Experience
 
 
+January 2026 – Present
+Smith Kunz & Associates, Rexburg, ID
 
-## Publications
+Prepared and filed 50+ federal and state individual and business tax returns
+Utilized TaxDome and UltraTax to streamline workflows and identify deductions and credits
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+June 2025 – August 2025
+Andersen, Los Angeles, CA
 
-### Journals
+Prepared and reviewed partnership K-1s, analyzing income, deductions, and credits
+Supported state and local tax (SALT) engagements, including multistate compliance and tax research
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+April 2023 – December 2024
+Ecoshield Pest Solutions, Nashville, TN
 
-`1669`
-Lectiones opticæ.
+Generated $280K in personal revenue through consultative sales
+Managed and mentored a sales team producing $500K+ in revenue
+Led training sessions focused on communication, objection handling, and closing strategies
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Leadership
 
 
-## Occupation
+October 2023 – Present
+BYU-Idaho Club Volleyball
+Team Captain; led team to Mountain West Championship
+Earned All–Mountain West First Team honors
 
-`1600`
-__Royal Mint__, London
+August 2020 – September 2022
+The Church of Jesus Christ of Latter-day Saints, Florianópolis, Brazil
 
-- Warden
-- Minted coins
+Trained and supported 150 missionaries across 30 cities
+Provided mentorship, leadership, and performance feedback in diverse environments
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+## Technical Skills
+
+Programming in VBA, SQL, Python, and RStudio, with experience applying data analysis techniques. Fluent in Portuguese, conversational in Spanish, and native in English.
 
 
 
