@@ -7,7 +7,7 @@ Tax associate, entrepeneur, follower of Christ.
 
 <div id="webaddress">
 | <a href="https://www.linkedin.com/in/spencer-keller12/">My linkedin page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+<!-- | <a href="https://skella1287.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
